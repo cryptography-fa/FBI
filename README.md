@@ -8,4 +8,4 @@ git clone https://github.com/gellmoxer/FBI<br>
 cd FBI<br>
 python2 fbi.py<p>
 
-##JUST FOR EDUCATION
+## JUST FOR EDUCATION
